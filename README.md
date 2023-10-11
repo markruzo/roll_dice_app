@@ -9,7 +9,7 @@ Flutter Basic's
     - Container
     - Column
     - SizedBox
-    - etc.
+    - Image.asset()
 
 ## Screens
 
