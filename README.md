@@ -2,6 +2,15 @@
 
 Flutter Basic's
 
+- Stateless Widget 
+- Statefulwidget
+- Class
+- Widget's
+    - Container
+    - Column
+    - SizedBox
+    - etc.
+
 ## Screens
 
 Text
