@@ -1,6 +1,6 @@
 # Roll Dice App
 
-A Simple Roll Dice App.
+Flutter Basic's
 
 ## Screens
 
