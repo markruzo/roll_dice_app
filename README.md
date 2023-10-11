@@ -1,17 +1,18 @@
-# roll_dice_app
+# Roll Dice App
 
-A new Flutter project.
+A Simple Roll Dice App.
 
-## Getting Started
+## Screens
 
-This project is a starting point for a Flutter application.
+Text
 
-A few resources to get you started if this is your first Flutter project:
+Text:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Link](link)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# roll_dice_app
+Text
+
+<div>
+  <img src="assets/screens/screen_bb.png" alt="Image 1" width="400" />
+  <img src="assets/screens/screen_bb.png" alt="Image 2" width="400" />
+</div>
